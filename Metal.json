@@ -1,0 +1,43 @@
+{
+  "room": "Metal CZ/SK/EN",
+  "author": "Цоокие",
+  "icon": "",
+  "css": "",
+  "rules": {
+    "allowAutorespond": false,
+    "allowAutowoot": true,
+    "allowAutojoin": true,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": false,
+    "forceSmartVote": false
+  },
+  "ccc": {
+    "admin": null,
+    "ambassador": "",
+    "host": "",
+    "cohost": "",
+    "manager": "",
+    "bouncer": "",
+    "rdj": "",
+    "subscriber": null,
+    "friend": null,
+    "user": null
+  },
+  "images": {
+    "background": "",
+    "playback": "http://i.imgur.com/7BGKTet.png",
+    "admin": "",
+    "ambassador": "",
+    "host": "",
+    "cohost": "",
+    "manager": "",
+    "bouncer": "",
+    "rdj": "",
+    "subscriber": null,
+    "other": null
+  },
+  "emotes": {
+  }
+}
