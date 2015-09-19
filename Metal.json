@@ -2,7 +2,7 @@
   "room": "Metal CZ/SK/EN",
   "author": "Цоокие",
   "icon": "",
-  "css": "",
+  "css": "https://rawgit.com/Cookie69/Metal-CZ-SK/master/metal.css",
   "rules": {
     "allowAutorespond": false,
     "allowAutowoot": true,
@@ -14,20 +14,20 @@
     "forceSmartVote": false
   },
   "ccc": {
-    "admin": null,
-    "ambassador": "",
-    "host": "",
-    "cohost": "",
-    "manager": "",
-    "bouncer": "",
-    "rdj": "",
+    "admin": "F70000",
+    "ambassador": "#F70000",
+    "host": "F70000",
+    "cohost": "F70000",
+    "manager": "F70000",
+    "bouncer": "F70000",
+    "rdj": "F70000",
     "subscriber": null,
     "friend": null,
     "user": null
   },
   "images": {
     "background": "",
-    "playback": "http://i.imgur.com/7BGKTet.png",
+    "playback": "http://i.imgur.com/QcmuW0l.png",
     "admin": "",
     "ambassador": "",
     "host": "",
